@@ -79,6 +79,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- **GitHub:** [your-username](https://github.com/DibyanshuChauhan)
+- **GitHub:** [Dibyanshu Chauhan](https://github.com/DibyanshuChauhan)
 - **Email:** cdivyanshu98@gmail.com
 
