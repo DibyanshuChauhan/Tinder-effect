@@ -8,7 +8,7 @@ This project replicates the popular swipe functionality found in Tinder, develop
 - **No dependencies:** Built entirely with vanilla HTML, CSS, and JavaScript.
 
 ## Preview
-![Tinder Effect Screenshot](link-to-screenshot)
+![Tinder Effect Screenshot](https://github.com/DibyanshuChauhan/Tinder-effect/blob/main/Screenshot%202025-01-14%20145649.png)
 
 > **Note:** This project is not optimized for desktop responsiveness and should be viewed on mobile devices or in mobile mode via browser inspect tools.
 
