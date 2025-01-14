@@ -20,12 +20,12 @@ Follow these steps to clone and run the project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/tinder-effect.git
+   git clone https://github.com/DibyanshuChauham/tinder-effect.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd tinder-effect
+   cd Tinder-effect
    ```
 
 3. **Open the `index.html` file in your browser:**
@@ -79,6 +79,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- **GitHub:** [your-username](https://github.com/your-username)
-- **Email:** your-email@example.com
+- **GitHub:** [your-username](https://github.com/DibyanshuChauhan)
+- **Email:** cdivyanshu98@gmail.com
 
